@@ -36,6 +36,8 @@ PATH_DB_BACKUPS=/home/shared/project_resources/KyberVision14API/db_backups
 PATH_PROJECT_RESOURCES=/home/shared/project_resources/KyberVision14API
 ADMIN_EMAIL_KV_MANAGER_WEBSITE=["nrodrig1@gmail.com"]
 URL_KV_MANAGER_WEBSITE=https://kv11-manager.dashanddata.com
+PATH_VIDEOS_UPLOAD03=/Users/nickrodriguez/Documents/_project_resources/KyberVision14API/match_videos/upload03
+URL_KV_JOB_QUEUER=http://localhost:6379
 ```
 
 ## nodemailer emails
